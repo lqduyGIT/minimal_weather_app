@@ -1,9 +1,6 @@
 # minimal_weather_app
 
 A new Flutter project.
-This is flow chart
-![minimai_weather_app_flchart](https://github.com/user-attachments/assets/da67d322-0c72-4ffb-8169-2d690eadf97e)
-
 
 ## Getting Started
 
